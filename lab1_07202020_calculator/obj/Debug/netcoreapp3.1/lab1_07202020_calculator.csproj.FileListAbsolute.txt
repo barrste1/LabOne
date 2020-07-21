@@ -1,0 +1,13 @@
+C:\Users\Stephen Barr (Work)\source\repos\lab1_07202020_calculator\lab1_07202020_calculator\bin\Debug\netcoreapp3.1\lab1_07202020_calculator.exe
+C:\Users\Stephen Barr (Work)\source\repos\lab1_07202020_calculator\lab1_07202020_calculator\bin\Debug\netcoreapp3.1\lab1_07202020_calculator.deps.json
+C:\Users\Stephen Barr (Work)\source\repos\lab1_07202020_calculator\lab1_07202020_calculator\bin\Debug\netcoreapp3.1\lab1_07202020_calculator.runtimeconfig.json
+C:\Users\Stephen Barr (Work)\source\repos\lab1_07202020_calculator\lab1_07202020_calculator\bin\Debug\netcoreapp3.1\lab1_07202020_calculator.runtimeconfig.dev.json
+C:\Users\Stephen Barr (Work)\source\repos\lab1_07202020_calculator\lab1_07202020_calculator\bin\Debug\netcoreapp3.1\lab1_07202020_calculator.dll
+C:\Users\Stephen Barr (Work)\source\repos\lab1_07202020_calculator\lab1_07202020_calculator\bin\Debug\netcoreapp3.1\lab1_07202020_calculator.pdb
+C:\Users\Stephen Barr (Work)\source\repos\lab1_07202020_calculator\lab1_07202020_calculator\obj\Debug\netcoreapp3.1\lab1_07202020_calculator.csprojAssemblyReference.cache
+C:\Users\Stephen Barr (Work)\source\repos\lab1_07202020_calculator\lab1_07202020_calculator\obj\Debug\netcoreapp3.1\lab1_07202020_calculator.AssemblyInfoInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\lab1_07202020_calculator\lab1_07202020_calculator\obj\Debug\netcoreapp3.1\lab1_07202020_calculator.AssemblyInfo.cs
+C:\Users\Stephen Barr (Work)\source\repos\lab1_07202020_calculator\lab1_07202020_calculator\obj\Debug\netcoreapp3.1\lab1_07202020_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\lab1_07202020_calculator\lab1_07202020_calculator\obj\Debug\netcoreapp3.1\lab1_07202020_calculator.dll
+C:\Users\Stephen Barr (Work)\source\repos\lab1_07202020_calculator\lab1_07202020_calculator\obj\Debug\netcoreapp3.1\lab1_07202020_calculator.pdb
+C:\Users\Stephen Barr (Work)\source\repos\lab1_07202020_calculator\lab1_07202020_calculator\obj\Debug\netcoreapp3.1\lab1_07202020_calculator.genruntimeconfig.cache
